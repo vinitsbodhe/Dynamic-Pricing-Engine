@@ -4,6 +4,9 @@
 
 🔗 **[Try the Application](https://dynamic-pricing-engine-vinit-bodhe.streamlit.app/)**
 
+
+🔗  [LinkedIn](www.linkedin.com/in/vinitsbodhe)
+
 ---
 
 ## Overview
@@ -29,7 +32,7 @@ The goal of this project is to develop a Dynamic Pricing Engine that recommends 
 
 ## Dataset
 
-* Hotel Booking Demand Dataset
+* Hotel Booking Demand Dataset   [Link](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 * 119,000+ hotel booking records
 * Features include:
 
@@ -91,8 +94,9 @@ Random Forest Regressor
 ### Performance
 
 * R² Score: **0.69**
-* MAE: **15.6**
-* RMSE: **26.0**
+* MAE: **17.43**
+* RMSE: **26.13**
+
 
 The model predicts the baseline ADR for a booking using booking and customer characteristics.
 
